@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\bin\Debug\Мебельная_фабрика.exe.config
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\bin\Debug\Мебельная_фабрика.exe
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\bin\Debug\Мебельная_фабрика.pdb
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.Properties.Resources.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.exe
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.pdb
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.EDirektora.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.EMastera.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.EMenegera.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.EZakazchika.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.EZDirektora.resources
+C:\Users\User\source\repos\Мебельная_фабрика\Мебельная_фабрика\obj\Debug\Мебельная_фабрика.Avtorizacziya.resources
